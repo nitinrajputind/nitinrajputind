@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQGQUFMjKmJNKA/profile-displaybackgroundimage-shrink_350_1400/0/1693721493268?e=1715817600&v=beta&t=Z68emVnoAzx54aMYwN1orIVB3T9Qb_fl7OwdYxj9dzs)
+![logo](https://media.licdn.com/dms/image/D4D16AQGQUFMjKmJNKA/profile-displaybackgroundimage-shrink_350_1400/0/1693721493268?e=1724889600&v=beta&t=sFMgcEv4nyDPo3-yQPoSJjFbOC0DKVVIo29QA_J_pHo)
 <h1 align="center">Hi 👋, I'm Nitin Rajput</h1>
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
