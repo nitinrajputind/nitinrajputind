@@ -39,3 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinrajputind&show_icons=true&locale=en" alt="nitinrajputind" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinrajputind&" alt="nitinrajputind" /></p>
+<br/>
+<br/>
+<p align="center"> 
+  Visitor count<br> <br>
+  <img src="https://profile-counter.glitch.me/nitinrajputind/count.svg" />
+</p>
