@@ -98,9 +98,9 @@
 <br/>
 
 <div align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinrajputind&show_icons=true&locale=en&layout=compact" alt="nitinrajputind" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinrajputind&show_icons=true&locale=en&layout=compact" alt="nitinrajputind" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=nitinrajputind&show_icons=true&locale=en" alt="nitinrajputind" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinrajputind&show_icons=true&locale=en" alt="nitinrajputind" />
 </div>
 
 
