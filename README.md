@@ -98,8 +98,8 @@
 <br/>
 
 <p style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinrajputind&show_icons=true&locale=en&layout=compact" alt="nitinrajputind" />
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=nitinrajputind&show_icons=true&locale=en" alt="nitinrajputind" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinrajputind&show_icons=true&locale=en&layout=compact" alt="nitinrajputind" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=nitinrajputind&show_icons=true&locale=en" alt="nitinrajputind" />
 </p>
 
 
