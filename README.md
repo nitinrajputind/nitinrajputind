@@ -26,19 +26,19 @@
 
 <p align="left">  
 <a href="https://twitter.com/thenitinrajput" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thenitinrajput" height="30" width="40" />
+  <img  height="40" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="thenitinrajput" />
 </a>
-  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://linkedin.com/in/www.linkedin.com/in/nitinrajputindia" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nitinrajputindia" height="30" width="40" />
+  <img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="www.linkedin.com/in/nitinrajputindia" height="40"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/https://www.facebook.com/nitinrajputindia/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nitinrajputindia/" height="30" width="40" />
+<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.facebook.com/nitinrajputindia/" height="40"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/https://www.instagram.com/nitinrajputindia/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nitinrajputindia/" height="30" width="40" />
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.instagram.com/nitinrajputindia/" height="40" />
 </a>
 
 </p>
@@ -95,13 +95,21 @@
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinrajputind&show_icons=true&locale=en&layout=compact" alt="nitinrajputind" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinrajputind&show_icons=true&locale=en" alt="nitinrajputind" /></p>
+<p style="display: flex; justify-content: space-between; align-items: flex-end;">
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinrajputind&show_icons=true&locale=en&layout=compact" alt="nitinrajputind" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=nitinrajputind&show_icons=true&locale=en" alt="nitinrajputind" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinrajputind&" alt="nitinrajputind" /></p>
+
+<div align="left"> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinrajputind&" alt="nitinrajputind" />
+</div>
+
 <br/>
 <br/>
+
 <p align="center"> 
   Visitor count<br> <br>
   <img src="https://profile-counter.glitch.me/nitinrajputind/count.svg" />
