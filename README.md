@@ -1,4 +1,8 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQGQUFMjKmJNKA/profile-displaybackgroundimage-shrink_350_1400/0/1693721493268?e=1724889600&v=beta&t=sFMgcEv4nyDPo3-yQPoSJjFbOC0DKVVIo29QA_J_pHo)
+<br/>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+developer;Node+Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+</div>
 <h1 align="center">Hi 👋, I'm Nitin Rajput</h1>
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
@@ -109,6 +113,9 @@
 </div>
 
 <br/>
+ <p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitinrajputind&theme=monokai" width="100%" heigth="70%"/>
+ </p>
 <br/>
 
 <p align="center"> 
