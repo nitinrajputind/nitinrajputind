@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQGQUFMjKmJNKA/profile-displaybackgroundimage-shrink_350_1400/0/1693721493268?e=1724889600&v=beta&t=sFMgcEv4nyDPo3-yQPoSJjFbOC0DKVVIo29QA_J_pHo)
+![logo](./cover.jpeg)
 <br/>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+developer;Node+Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
@@ -129,9 +129,3 @@
 </a>
 
 <br/>
-<hr/>
-
-<p align="center"> 
-  Visitor count<br> <br>
-  <img src="https://profile-counter.glitch.me/nitinrajputind/count.svg" />
-</p>
